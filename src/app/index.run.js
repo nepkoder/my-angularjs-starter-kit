@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('firstAngularPro')
+    .module('NepKoder')
     .run(runBlock);
 
   /** @ngInject */

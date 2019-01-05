@@ -2,13 +2,12 @@
   'use strict';
 
   angular
-    .module('firstAngularPro')
+    .module('NepKoder')
     .controller('MainController', MainController);
 
   /** @ngInject */
   function MainController($scope) {
     var vm = this;
-
-   
+    
   }
 })();
